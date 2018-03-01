@@ -1,0 +1,3 @@
+alma: .*alma.*
+körte: .*k?rte.*
+szilva: .*s[z].{3}a.*
